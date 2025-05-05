@@ -17,7 +17,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "254769677305",  // Owner's WhatsApp number
     OWNER_NAME: process.env.OWNER_NAME || "Conway360",           // Owner's name
     DEV: process.env.DEV || "254788409105",                     // Developer's contact number
-    DEVELOPER_NUMBER: '263719647303@s.whatsapp.net',            // Developer's WhatsApp ID
+    DEVELOPER_NUMBER: '254769677305@s.whatsapp.net',            // Developer's WhatsApp ID
 
     // ===== AUTO-RESPONSE SETTINGS =====
     AUTO_REPLY: process.env.AUTO_REPLY || "false",              // Enable/disable auto-reply
@@ -36,7 +36,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "false",              // Auto-send voice messages?
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",      // Auto-record voice notes?
     AUTO_TYPING: process.env.AUTO_TYPING || "true",            // Show typing indicator?
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",  // Bot's "alive" image
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rfd8e6.jpg",  // Bot's "alive" image
 
     // ===== SECURITY & ANTI-FEATURES =====
     ANTI_BAD: process.env.ANTI_BAD || "false",                  // Block bad words?
